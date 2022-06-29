@@ -1,0 +1,42 @@
+*vim_yankcode.txt* create or jump to files with todays date.
+
+Useful for things like journals or logbooks, where you want to create a name
+with a format something like `~/journal/20200101-Monday.txt`.
+
+========================================================================
+
+CONTENTS                                             *vim_yankcode-Contents*
+
+    1. Usage ...................... |vim_yankcode-Usage|
+    2. Configuration .............. |vim_yankcode-Configuration|
+    3. Examples ................... |vim_yankcode-Examples|
+
+========================================================================
+
+SECTION 1. USAGE                                        *vim_yankcode-Usage*
+
+
+                                                                 *YankCode*
+`:YankCode <with_git>?`                                              
+    TODO
+
+
+------------------------------------------------------------------------
+
+SECTION 2. CONFIGURATION                        *vim_yankcode-Configuration*
+
+                                               *g:...configuration...*
+g:...configuration...~
+    [default: nil]
+    TODO
+
+
+                 
+------------------------------------------------------------------------
+
+SECTION 3. EXAMPLES                                  *vim_yankcode-Examples*
+
+
+========================================================================
+
+vim:tw=78:ts=8:ft=help:norl:
